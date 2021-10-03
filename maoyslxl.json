@@ -2,39 +2,6 @@
 {
   "sites": [
     {
-        "key": "极品资源",
-        "name": "极品资源",
-        "type": 0,
-        "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
-        "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "日本剧",
-        "台湾剧",
-        "泰国剧",
-        "综艺",
-        "动漫"
-        ]
-    },
-    {
-    "key": "csp_Coke",
-    "name": "CK(爬虫)",
-    "type": 3,
-    "api": "csp_Coke",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1
-    },
-    {
     "key": "csp_Aidi",
     "name": "爱迪(爬虫)",
     "type": 3,
@@ -42,34 +9,61 @@
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 1
-    },
+    },  
     {
     "key": "csp_Enlienli",
-    "name": "嗯哩(爬虫)",
+    "name": "嗯哩嗯哩(爬虫)",
     "type": 3,
     "api": "csp_Enlienli",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 1
     },
-    {
-     "key": "csp_EPang",
-     "name": "阿房(爬虫)",
-     "type": 3,
-     "api": "csp_EPang",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1
-    },
-    {
-      "key": "csp_Auete",
-      "name": "Auete(爬虫)",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
+{
+  "key": "csp_Auete",
+  "name": "Auete(爬虫)",
+  "type": 3,
+  "api": "csp_Auete",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
+{
+  "key": "csp_Cokemv",
+  "name": "Cokemv(爬虫)",
+  "type": 3,
+  "api": "csp_Cokemv",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
+{
+  "key": "csp_Buka",
+  "name": "真不卡(爬虫)",
+  "type": 3,
+  "api": "csp_Buka",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1
+},
+{
+  "key": "csp_Ysgc",
+  "name": "影视工厂(爬虫)",
+  "type": 3,
+  "api": "csp_Ysgc",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
+{
+  "key": "csp_N0ys",
+  "name": "90影视(爬虫)",
+  "type": 3,
+  "api": "csp_N0ys",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0
+},
     {
         "key": "片库",
         "name": "片库",
@@ -90,6 +84,54 @@
         "type": 0,
         "api": "https://速影128.xyz/inc/api.php",
         "playUrl": ""
+    },
+    {
+      "key": "605资源",
+      "name": "605资源",
+      "type": 0,
+      "api": "http://www.605zy.co/inc/605m3u8.php",
+      "playUrl": ""
+    },
+    {
+      "key": "电牛资源",
+      "name": "电牛资源",
+      "type": 0,
+      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛资源",
+      "type": 0,
+      "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
+      "playUrl": "https://www.tutukiki.com/m3u8/?url=",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
+    },
+      {
+                "key": "极品资源",
+                "name": "极品资源",
+                "type": 0,
+                "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
+                "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "日本剧",
+        "台湾剧",
+        "泰国剧",
+        "综艺",
+        "动漫"
+                ]
     },
     {
       "key": "快播云",
@@ -114,20 +156,6 @@
         "战争片",
         "纪录片"
       ]
-    },
-    {
-      "key": "605资源",
-      "name": "605资源",
-      "type": 0,
-      "api": "http://www.605zy.co/inc/605m3u8.php",
-      "playUrl": ""
-    },
-    {
-      "key": "电牛资源",
-      "name": "电牛资源",
-      "type": 0,
-      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
     },
     {
       "key": "柚子资源",
@@ -917,7 +945,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "http://www.pandown.pro/custom_spider.jar",
+  "spider": "https://gitee.com/sharerwtv/mao/raw/master/custom_spider.jar",
   "parses": [
     {
       "name": "暮光解析",
