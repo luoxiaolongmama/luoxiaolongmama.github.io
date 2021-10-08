@@ -401,7 +401,7 @@
             "mainCss": "div.fed-part-layout.fed-back-whits",
             "mainListIndex": 0,
             "nameAttr": "",
-            "nameCss": "dd.fed-deta-content > span.fed-text-green.fed-text-bold",
+            "nameCss": "dd.fed-deta-content > h1 > a > span.fed-text-green.fed-text-bold",
             "nameIndex": 0,
             "searchListCss": "dl",
             "urlAttr": "href",
