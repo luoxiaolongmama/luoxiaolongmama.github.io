@@ -23,7 +23,7 @@
       "click": true
     },
     {
-      "name": "NFMovies3(规则)",
+      "name": "NFMovies4(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
       "ads": "",
@@ -53,13 +53,13 @@
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "listCss": "ul > li",
+            "listCss": "li",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div＃playlist1",
+            "mainCss": "ul.myui-content__list",
             "mainIndex": 0
           },
           "nav": {
