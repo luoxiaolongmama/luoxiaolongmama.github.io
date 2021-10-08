@@ -23,7 +23,7 @@
       "click": true
     },
     {
-      "name": "NFMovies5(规则)",
+      "name": "NFMovies(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
       "ads": "",
@@ -53,7 +53,7 @@
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "listCss": "li",
+            "listCss": "ul > li",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
