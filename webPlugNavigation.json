@@ -353,14 +353,14 @@
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "listCss": "ul > li.fed-col-lg1",
+            "listCss": "li",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.fed-play-item",
-            "mainIndex": 0
+            "mainCss": "div.fed-play-item > ul",
+            "mainIndex": 1
           },
           "nav": {
             "descAttr": "",
@@ -401,7 +401,7 @@
             "mainCss": "div.fed-part-layout.fed-back-whits",
             "mainListIndex": 0,
             "nameAttr": "",
-            "nameCss": "dd.fed-deta-content > h1 > a",
+            "nameCss": "dd.fed-deta-content > a",
             "nameIndex": 0,
             "searchListCss": "dl",
             "urlAttr": "href",
