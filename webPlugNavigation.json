@@ -23,7 +23,7 @@
       "click": true
     },
     {
-      "name": "NFMovies2(规则)",
+      "name": "NFMovies3(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
       "ads": "",
@@ -59,7 +59,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.tab-pane.fade.in.clearfix",
+            "mainCss": "div＃playlist1",
             "mainIndex": 0
           },
           "nav": {
