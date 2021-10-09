@@ -12,6 +12,115 @@
       "click": true
     },
     {
+      "name": "独播库",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.duboku.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "独播库(规则)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://www.duboku.tv/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.duboku.tv/vodsearch/-------------.html?wd={kw}&submit=",
+        "nav_url": "https://www.duboku.tv/vodtype/navCate-navPage.html",
+        "web_name": "独播库",
+        "navHtml": {
+          "name": [
+            "电视剧",
+            "综艺",
+            "动漫"
+          ],
+          "cate": [
+            "2",
+            "3",
+            "4"
+          ],
+          "page": "1"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.myui-content__list",
+            "mainIndex": 1
+          },
+          "nav": {
+            "descAttr": "",
+            "descCss": "span.pic-text",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "hasImgUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "a.myui-vodlist__thumb",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a.myui-vodlist__thumb",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a.myui-vodlist__thumb",
+            "urlIndex": 0
+          },
+          "search": {
+            "descAttr": "",
+            "descCss": "a.myui-vodlist__thumb > span.pic-text",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "hasImgUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "a.myui-vodlist__thumb",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist__media",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a.myui-vodlist__thumb",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a.myui-vodlist__thumb",
+            "urlIndex": 0
+          }
+        }
+      }
+    },
+    {
+      "name": "星空影视",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "http://xkys.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "NFMovies",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "keyDownPlay": false,
@@ -160,6 +269,95 @@
             "listItemCss": "a",
             "listItemIndex": 0,
             "mainCss": "div.play_list_box",
+            "mainIndex": 0
+          },
+          "nav": {
+            "descAttr": "",
+            "descCss": "span.pack-prb",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "hasImgUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "div.bj",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.vodlist",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "div.pack-ykpack",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "descAttr": "",
+            "descCss": "span.pack-prb",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "hasImgUrlPrefix": true,
+            "imgAttr": "data-original",
+            "imgCss": "div.bj",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.ec-search",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a.ecimgbor",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a.ecimgbor",
+            "urlIndex": 0
+          }
+        }
+      }
+    },
+    {
+      "name": "追剧达人2(规则)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "vipmv.tv",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "http://vipmv.tv/vod/search.html?wd={kw}",
+        "nav_url": "http://vipmv.tv/vodshow/navCate--------navPage---.html",
+        "web_name": "追剧达人",
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "综艺",
+            "动漫"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "page": "1"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "listCss": "ul > li",
+            "isMultiList": true,
+            "listCssMulti": "div.play_list_box",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.play_source > div.tagContent",
             "mainIndex": 0
           },
           "nav": {
