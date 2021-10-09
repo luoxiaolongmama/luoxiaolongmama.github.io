@@ -351,9 +351,9 @@
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "listCss": "ul > li",
+            "listCss": "div.play_list_box",
             "isMultiList": true,
-            "listCssMulti": "div.play_list_box",
+            "listCssMulti": "ul > li",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
