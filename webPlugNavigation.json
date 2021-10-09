@@ -521,7 +521,7 @@
       }
     },
     {
-      "name": "电影牛(规则)",
+      "name": "电影牛2(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
       "ads": "",
@@ -553,7 +553,7 @@
             "isListItemAttr": true,
             "listCss": "div.fed-play-item",
             "isMultiList": true,
-            "listCssMulti": "ul:not(fed-drop-head) > li",
+            "listCssMulti": "ul:not(.fed-drop-head) > li",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
