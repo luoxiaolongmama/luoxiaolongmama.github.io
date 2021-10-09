@@ -110,17 +110,6 @@
       }
     },
     {
-      "name": "星空影视",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "PC",
-      "ads": "",
-      "webUrl": "http://xkys.tv/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "NFMovies",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "keyDownPlay": false,
@@ -433,95 +422,6 @@
     },
     {
       "name": "电影牛(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "type": "webPlug",
-      "ads": "",
-      "webUrl": "https://www.dianyingn.com/",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.dianyingn.com/vodsearch/-------------.html?wd={kw}",
-        "nav_url": "https://www.dianyingn.com/vodshow/navCate--------navPage---.html",
-        "web_name": "电影牛",
-        "navHtml": {
-          "name": [
-            "电影",
-            "电视剧",
-            "综艺",
-            "动漫"
-          ],
-          "cate": [
-            "dianying",
-            "dianshiju",
-            "zongyi",
-            "dongman"
-          ],
-          "page": "1"
-        },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "listCss": "li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.fed-play-item > ul",
-            "mainIndex": 1
-          },
-          "nav": {
-            "descAttr": "",
-            "descCss": "span.fed-list-remarks",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "hasImgUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a.fed-list-pics",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": false,
-            "isUrlAttr": true,
-            "mainCss": "ul.fed-list-info",
-            "mainListIndex": 0,
-            "nameAttr": "",
-            "nameCss": "a.fed-list-title",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a.fed-list-title",
-            "urlIndex": 0
-          },
-          "search": {
-            "descAttr": "",
-            "descCss": "a.fed-list-pics > span.fed-list-remarks",
-            "descIndex": 0,
-            "hasUrlPrefix": false,
-            "hasImgUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a.fed-list-pics",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": false,
-            "isUrlAttr": true,
-            "mainCss": "div.fed-part-layout.fed-back-whits",
-            "mainListIndex": 0,
-            "nameAttr": "",
-            "nameCss": "dd.fed-deta-content > h1 > a",
-            "nameIndex": 0,
-            "searchListCss": "dl",
-            "urlAttr": "href",
-            "urlCss": "a.fed-list-pics",
-            "urlIndex": 0
-          }
-        }
-      }
-    },
-    {
-      "name": "电影牛2(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
       "ads": "",
