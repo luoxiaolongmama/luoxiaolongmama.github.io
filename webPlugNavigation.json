@@ -58,7 +58,7 @@
             "listItemCss": "a",
             "listItemIndex": 0,
             "mainCss": "ul.myui-content__list",
-            "mainIndex": 1
+            "mainIndex": 0
           },
           "nav": {
             "descAttr": "",
@@ -357,7 +357,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.play_source > div.tagContent",
+            "mainCss": "div.play_source > div#tagContent",
             "mainIndex": 0
           },
           "nav": {
