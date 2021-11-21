@@ -199,6 +199,16 @@
     "filterable": 0,
     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
 },
+{
+    "key": "csp_xpath_bde4",
+    "name": "哔嘀影视(XPath)",
+    "type": 3,
+    "api": "csp_XPathBde4",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/bde4.json"
+},
     {
         "key": "片库",
         "name": "片库",
