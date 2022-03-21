@@ -21,16 +21,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://luoxiaolongmama.github.io/xpath/Duboku.json"
-    },
-    {
-      "key": "csp_xpath_egg",
-      "name": "蛋蛋影院(XPath)",
-      "type": 3,
-      "api": "csp_XPathEgg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://luoxiaolongmama.github.io/xpath/egg.json"
     }
 ],
 "lives":[{"group":"redirect","channels":[{"name":"资源来自网络其他大神","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]}],
