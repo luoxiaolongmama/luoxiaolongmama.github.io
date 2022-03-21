@@ -2,6 +2,7 @@
     "ua": "",
     "homeUrl": "https://www.duboku.tv/",
     "pCfgJs": "https://www.duboku.tv/static/js/playerconfig.js",
+    "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     "dcVipFlag": "true",
     "dcPlayUrl": "true",
     "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')and not(contains(@href,'20'))]",
