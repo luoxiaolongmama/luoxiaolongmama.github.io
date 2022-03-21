@@ -1,6 +1,7 @@
 {
     "ua": "",
     "homeUrl": "https://www.duboku.tv/",
+    "pCfgJs": "https://www.duboku.tv/static/js/playerconfig.js",
     "dcVipFlag": "true",
     "dcPlayUrl": "true",
     "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')and not(contains(@href,'20'))]",
@@ -88,6 +89,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
             {"n": "2019","v": "2019"},
@@ -122,6 +124,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
             {"n": "2019","v": "2019"},
@@ -156,6 +159,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
             {"n": "2019","v": "2019"},
