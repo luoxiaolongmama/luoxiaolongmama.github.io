@@ -21,6 +21,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://luoxiaolongmama.github.io/xpath/Duboku.json"
+    },
+    {
+      "key": "冲TMTV",
+      "name": "冲TMTV",
+      "type": 0,
+      "api": "https://chongtmtv.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "唐人街",
+      "name": "唐人街",
+      "type": 0,
+      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": []
     }
 ],
 "lives":[{"group":"redirect","channels":[{"name":"资源来自网络其他大神","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]}],
