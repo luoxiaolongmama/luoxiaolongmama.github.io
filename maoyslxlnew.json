@@ -26,7 +26,7 @@
       "key": "冲TMTV",
       "name": "冲TMTV",
       "type": 0,
-      "api": "https://chongtmtv.com/api.php/provide/vod/at/xml",
+      "api": "https://chongtmtv.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
     },
@@ -35,6 +35,14 @@
       "name": "唐人街",
       "type": 0,
       "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": []
+    },
+    {
+      "key": "if101",
+      "name": "if101",
+      "type": 0,
+      "api": "https://demo.if101.tv/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": []
     }
